@@ -22,7 +22,7 @@ SIMPLE AND USEFULL ,LETS GET STARTED
 ### generate the bill amount /random bill no
 
 
-
+### json generator is also included in this repo,you can generate long json files with it
 
 ## Usage
 

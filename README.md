@@ -22,16 +22,19 @@ SIMPLE AND USEFULL ,LETS GET STARTED
 ### generate the bill amount /random bill no
 
 
-### json generator is also included in this repo,you can generate long json files with it
+
 
 ## Usage
 
 ```
 CLONE THE REPO 
 OPEN JUPYTER NOTEBOOK 
+OPEN INVENTORY MANAGEMENT FILE
 CLICK ON RUN ALL THE CELLS
 AND ENTER THE INPUT AS ASKED 
+
 ```
+### json generator is also included in this repo,you can generate long json files with it
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
